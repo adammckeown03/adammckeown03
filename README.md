@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm an aspiring developer who loves working on interesting projects and exploring new technologies.
 
-## About Me
+## ❓ About Me
 
 - 🌱 I’m currently studying Computer Science
 - 👀 I’m interested in Studying Coding Languages
