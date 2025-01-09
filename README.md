@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an aspiring developer who loves working on int
 ## ❓ About Me
 
 - 🌱 I’m currently studying Computer Science
-- 👀 I’m interested in Studying Coding Languages
+- 👀 I’m interested in all things Tech!
 - 📫 How to reach me mckeownadam194@gmail.com
 
 ## 🔧 Technologies & Tools
